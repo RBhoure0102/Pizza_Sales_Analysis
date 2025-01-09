@@ -38,3 +38,14 @@ A Power BI file that visualizes the analysis results through dashboards and repo
 2. Monthly order trends.
 3. Top-selling pizzas and their contribution to revenue.
 4. Sales performance by day and hour.
+
+![image](https://github.com/user-attachments/assets/75b176ba-6c21-4a85-bd19-4ef89788190d)
+![image](https://github.com/user-attachments/assets/1053ca60-4de6-453a-8bd0-716f4b116234)
+![image](https://github.com/user-attachments/assets/eab3bbb4-4a85-4274-8144-e594322bc698)
+![image](https://github.com/user-attachments/assets/3a845b78-33b1-4891-9b08-84aa6a9ace70)
+![image](https://github.com/user-attachments/assets/caae62a8-c85a-421e-a944-566e1741111e)
+
+
+
+
+

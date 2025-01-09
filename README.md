@@ -1,4 +1,4 @@
-**`PIZZA SALES ANALYSIS**
+**PIZZA SALES ANALYSIS**
 
 This repository contains the analysis of a fictitious pizza place's annual sales data. The project leverages SQL queries, Power BI visualizations, and detailed insights to optimize decision-making based on sales performance, customer behavior, and operational trends.
 
